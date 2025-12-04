@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "가을 아침",
+  "base_artist": "아이유(IU)",
+  "createdAt": "2025-12-04T13:39:47.031911Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "가을 아침",
+      "artist": "IU",
+      "has_synced": true,
+      "path": "select/01_가을_아침_IU.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "가을 아침",
+      "artist": "아이유",
+      "has_synced": true,
+      "path": "select/02_가을_아침_아이유.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "가을 아침 [Gaeul Achim] : Autumn morning",
+      "artist": "IU",
+      "has_synced": true,
+      "path": "select/03_가을_아침_[Gaeul_Achim]___Autumn_morning_IU.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "가을 아침 [Gaeul Achim] : Autumn morning",
+      "artist": "IU",
+      "has_synced": false,
+      "path": "select/pl_01_가을_아침_[Gaeul_Achim]___Autumn_morning_IU.txt"
+    }
+  ]
+}
